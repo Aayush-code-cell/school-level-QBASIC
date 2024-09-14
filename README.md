@@ -12,7 +12,7 @@ Welcome to the `school-level-QBASIC` repository! This project is a collection of
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/school-level-QBASIC.git
+   https://github.com/Aayush-code-cell/school-level-QBASIC.git
    
 2. **Explore the Files:**
    Navigate through the directory to find various QBASIC programs and exercises. The directory structure is organized to help you easily locate different types of examples and practice problems.
